@@ -95,3 +95,7 @@ coverage.xml
 /htmlcov/
 
 **/UserSettings/*
+
+*.sublime-project
+*.sublime-workspace
+.conda_environment/

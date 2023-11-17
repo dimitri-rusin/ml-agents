@@ -1,0 +1,8 @@
+dependencies:
+  - python=3.9.18
+  - pip=23.3
+  - pip:
+    - colored==2.2.3
+    - jupyter==1.0.0
+    - mlagents==0.30.0
+    - protobuf==3.19.6
